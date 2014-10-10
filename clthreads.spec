@@ -1,7 +1,7 @@
 Summary:	clthreads library
 Name:		clthreads
 Version:	2.4.0
-Release:	2
+Release:	3
 License:	LGPL
 Group:		Libraries
 Source0:	http://www.kokkinizita.net/linuxaudio/downloads/%{name}-%{version}.tar.bz2
